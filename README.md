@@ -1,2 +1,2 @@
 # iTKOLisa
-iTKOLisa tips &amp; tricks for service layer testing
+iTKOLisa tips &amp; tricks for service layer testing.
