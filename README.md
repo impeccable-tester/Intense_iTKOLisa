@@ -1,2 +1,2 @@
-# Intense_iTKOLisa
+# iTKOLisa
 iTKOLisa tips &amp; tricks for service layer testing
